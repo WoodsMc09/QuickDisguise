@@ -1,0 +1,6 @@
+name: QuickDisguise
+version: '${project.version}'
+main: me.woodsmc.quickdisguise.QuickDisguise
+api-version: 1.13
+authors: [ WoodsMc ]
+description: Quickly disguise into any mob
